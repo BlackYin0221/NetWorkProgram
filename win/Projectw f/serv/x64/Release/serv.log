@@ -1,0 +1,12 @@
+﻿  hello_server.c
+hello_server.obj : error LNK2001: 无法解析的外部符号 __imp_htons
+hello_server.obj : error LNK2001: 无法解析的外部符号 __imp_htonl
+hello_server.obj : error LNK2001: 无法解析的外部符号 __imp_socket
+hello_server.obj : error LNK2001: 无法解析的外部符号 __imp_send
+hello_server.obj : error LNK2001: 无法解析的外部符号 __imp_WSAStartup
+hello_server.obj : error LNK2001: 无法解析的外部符号 __imp_listen
+hello_server.obj : error LNK2001: 无法解析的外部符号 __imp_closesocket
+hello_server.obj : error LNK2001: 无法解析的外部符号 __imp_bind
+hello_server.obj : error LNK2001: 无法解析的外部符号 __imp_accept
+hello_server.obj : error LNK2001: 无法解析的外部符号 __imp_WSACleanup
+E:\Network Program\win\Projectw f\x64\Release\serv.exe : fatal error LNK1120: 10 个无法解析的外部命令
