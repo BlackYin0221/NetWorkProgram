@@ -1,3 +1,3 @@
 ﻿  tcp_client_win.c
-E:\Network Program\win\Projectw f\clnt\tcp_client_win.c(33,29): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\Network Program\win\Projectw f\clnt_1\tcp_client_win.c(33,29): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
   clnt_1.vcxproj -> E:\Network Program\win\Projectw f\x64\Debug\clnt_1.exe
